@@ -24,14 +24,14 @@ And they play important roles in `Doglang` :
 
 | Instruction |  Function    |  In BF  |  In C  |
 | ---- | ---- | ---- | ---- |
-| "🐕"   | Move the pointer to the right | < | `p++;` |
-| "🐕 "   | Move the pointer to the left | > | `p--;`|
-| "🦮"   | Increment the memory cell at the pointer | + |   `*p++;` |
-| "🦮 "   | Decrement the memory cell at the pointer | - |  `*p--;` |
-| "🐶"   | Output the character signified by the cell at the pointer | . |  `putchar(*p);` |
-| "🐶 "   | Input a character and store it in the cell at the pointer | , |    `*p=getchar();` |
-| "🐩"   | Jump past the matching `🐩 ` if the cell at the pointer is 0 | [ |  `while(*p){` |
-| "🐩 "   | Jump back to the matching `🐩` if the cell at the pointer is nonzero | ] |   `}` |
+| "🐕" | Move the pointer to the right | < | `p++;` |
+| "🐕 " | Move the pointer to the left | > | `p--;`|
+| "🦮" | Increment the memory cell at the pointer | + |   `*p++;` |
+| "🦮 " | Decrement the memory cell at the pointer | - |  `*p--;` |
+| "🐶" | Output the character signified by the cell at the pointer | . |  `putchar(*p);` |
+| "🐶 " | Input a character and store it in the cell at the pointer | , |    `*p=getchar();` |
+| "🐩" | Jump past the matching `🐩 ` if the cell at the pointer is 0 | [ |  `while(*p){` |
+| "🐩 " | Jump back to the matching `🐩` if the cell at the pointer is nonzero | ] |   `}` |
 
 
 
