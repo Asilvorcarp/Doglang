@@ -1,10 +1,12 @@
 # Doglang 🐶
 
+**The Cutest Esolang With Doggies**
+
 Doglang is to BF what Typescript is to Javascript (in the future),
 
-while for now it's almost the same as BF (but cuter).
+while for now it's just the same as BF (but cuter).
 
-(BF - Brainfuck)
+(BF means brainfuck btw)
 
 ## Dogs
 
