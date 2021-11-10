@@ -23,7 +23,7 @@ And they play important roles in `Doglang` :
 | Instruction |  Function    |  In BF  |  In C  |
 | ---- | ---- | ---- | ---- |
 | "🐕"   | Move the pointer to the right | < | `p++;` |
-| "🐕 "   | Move the pointer to the left | > | `p--;|`|
+| "🐕 "   | Move the pointer to the left | > | `p--;`|
 | "🦮"   | Increment the memory cell at the pointer | + |   `*p++;` |
 | "🦮 "   | Decrement the memory cell at the pointer | - |  `*p--;` |
 | "🐶"   | Output the character signified by the cell at the pointer | . |  `putchar(*p);` |
@@ -36,7 +36,7 @@ And they play important roles in `Doglang` :
 ## Hello World
 
 ```Doglang
-
+🦮🐩🦮 🦮 🐕 🦮 🐩🐕 🐕 🦮🐕 🦮 🦮 🦮 🦮 🦮 🐕🐕🐩 🐕🦮 🦮 🐕🦮 🦮 🦮 🐩 🐕 🦮 🐶🐕 🐕 🐕 🦮🐶🐕 🐕 🐶🐶🦮🦮🦮🐩🐶🐕 🐩 🐕🐕🐕🐕🐶🦮🦮🦮🐶🦮 🦮 🦮 🦮 🦮 🦮 🐶🐕🐕🦮 🐶🐕 🐕 🐕 🐕 🦮🐶
 ```
 
 
