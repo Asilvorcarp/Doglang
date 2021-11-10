@@ -1,4 +1,4 @@
-# Doglang
+# Doglang 🐶
 
 Doglang is to BF what Typescript is to Javascript (in the future),
 
